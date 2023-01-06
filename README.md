@@ -1,4 +1,4 @@
-# Deep-Learning-Events-Project
+# Deep-Learning Cultural Events Recognition Project
 
 Mkhanyisi Gamedze
 COSI 165B Deep Learning
