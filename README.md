@@ -2,7 +2,7 @@
 
 ## World Event Recognition using Deep Convolutional Neural Network Architectures
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FExamples-of-event-images-from-the-ChaLearn-Cultural-Event-Recognition-dataset-top-row_fig1_319695330&psig=AOvVaw3fzOir7cSemTLhNhhfqyYi&ust=1673087226098000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDZh-DdsvwCFQAAAAAdAAAAABAS](https://www.researchgate.net/publication/319695330/figure/fig1/AS:962204711002115@1606418888444/Examples-of-event-images-from-the-ChaLearn-Cultural-Event-Recognition-dataset-top-row.gif" >
+<img src="https://www.researchgate.net/publication/319695330/figure/fig1/AS:962204711002115@1606418888444/Examples-of-event-images-from-the-ChaLearn-Cultural-Event-Recognition-dataset-top-row.gif" >
 
 Mkhanyisi Gamedze <br>
 COSI 165B Deep Learning <br>
