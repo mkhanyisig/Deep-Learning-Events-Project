@@ -1,4 +1,4 @@
-# World Event Recognition using Deep Convolutional Neural Network Architectures
+## World Event Recognition using Deep Convolutional Neural Network Architectures
 
 <img src="https://www.researchgate.net/publication/319695330/figure/fig1/AS:962204711002115@1606418888444/Examples-of-event-images-from-the-ChaLearn-Cultural-Event-Recognition-dataset-top-row.gif" >
 
